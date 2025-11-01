@@ -6,10 +6,10 @@ This is a portfolio website project that showcases personal work and skills.
 
 ```
 portfolio-website
-├── src
-│   ├── index.html        # Main HTML document for the portfolio website
-│   ├── styles
-│   │   └── main.css      # Styles for the portfolio website
+|
+│ index.html        # Main HTML document for the portfolio website
+│ 
+│── main.css      # Styles for the portfolio website
 │   ├── scripts
 │   │   └── main.js       # JavaScript code for interactivity and functionality
 │   └── assets
@@ -24,12 +24,12 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Bharatkamble12/portfolio
    ```
 
 2. Navigate to the project directory:
    ```
-   cd portfolio-website
+   cd portfolio
    ```
 
 3. Install the dependencies:
